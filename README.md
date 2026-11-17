@@ -1,6 +1,6 @@
 # EX-NO-7-Implement-DES-Encryption
 
-### DEVELOPER: HARISHBALA J
+### NAME : HARISHBALA J
 ### REG NO: 212224223002
 
 ## Aim:
